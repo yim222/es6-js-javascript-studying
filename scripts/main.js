@@ -1,6 +1,6 @@
 const myHeading = document.querySelector("h1");
 myHeading.textContent = "Hello world!";
-
+//new comment
 
 let num = 4;
 
